@@ -1,2 +1,2 @@
 # MinorProjectJS
-This reposit
+This repository contains minor project to implement a todo list.
